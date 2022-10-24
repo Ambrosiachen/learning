@@ -7,3 +7,7 @@ some description
 watch freecodecamp
 
 + adding more texts
+
+## local development
+
+1. open index.html in your browser
